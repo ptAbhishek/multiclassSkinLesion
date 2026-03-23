@@ -35,3 +35,11 @@ yf = defused(x)  # [4, 7]
 1. [Data Process](https://colab.research.google.com/drive/1vpqEfQ_SgCArX6mtgXwH9M5p8G7CYrrZ?usp=sharing)
 2. [Algos](https://colab.research.google.com/drive/10uuzHEatXZwZL0o7qAvEnn3q8KJqY_tE?usp=sharing)
 3. [Model Training](https://colab.research.google.com/drive/1N0Jvu7mi2I8vkhAtBfnyRgIcX_9Spxzi?usp=sharing)
+
+## Hugging Face Spaces Deployment
+
+Deployment assets are isolated in a separate folder:
+
+- [deploy/hf-space](deploy/hf-space)
+
+This includes a Gradio app, inference utilities, and deployment requirements for Hugging Face Spaces.
